@@ -1,5 +1,4 @@
 # Salvar o script Python como um arquivo .py para a usuária baixar
-codigo =
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
